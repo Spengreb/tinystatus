@@ -52,3 +52,8 @@
   type: http
   host: https://breakout.veretium.com
   expected_code: 200
+
+- name: Vereto Galactica
+  type: http
+  host: https://galactica.veretium.com
+  expected_code: 200
