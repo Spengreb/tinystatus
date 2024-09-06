@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-    <h1>TinyStatus</h1>
+    <h1>Vereto Service Status</h1>
     <h2>Current Status</h2>
     <div class="status-grid">
         {% for check in checks %}
